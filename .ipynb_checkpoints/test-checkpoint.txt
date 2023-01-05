@@ -1,0 +1,4 @@
+[{"Børs og finans": [{"Børs":["Oslo Børs", "Børsene I Asia","Helsinki-børsen","Hongkong-børsen","New York-børsen", "Seoul-børsen", "Shanghai-børsen", "Singapore-børsen", "Stockholmsbørsen", "Sydney-børsen", "Tokyo-børsen"]}, 
+					{"Finans:[]}}]}
+								
+]
